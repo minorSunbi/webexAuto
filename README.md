@@ -8,4 +8,6 @@
 *************************
 ## 작업 스케줄러 설정
 윈도우의 "작업 스케줄러"를 사용해서 파이썬 스크립트가 "로그온 할 때"  실행되게 해줍니다.
-
+************************
+## cron 스케줄러의 보다 많은 설정 알아보기
+Link: [apscheduler 공식 문서](https://apscheduler.readthedocs.io/en/stable/modules/triggers/cron.html?highlight=start_date)
