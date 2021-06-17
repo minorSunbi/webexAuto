@@ -3,7 +3,7 @@
 =======
 
 ## pip으로 설치해야 하는 모듈
-> pip install pywinauto
+> pip install pywinauto   
 > pip install apscheduler
 ------------------------------
 ## 작업 스케줄러 설정
