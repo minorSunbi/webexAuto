@@ -1,6 +1,6 @@
 # webexAuto
 웹엑스 자동 시작 - 비대면 수업 지각 방지
-=======
+----------------
 
 ## pip으로 설치해야 하는 모듈
 > pip install pywinauto   
